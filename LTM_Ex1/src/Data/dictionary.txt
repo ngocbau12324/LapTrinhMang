@@ -1,0 +1,36 @@
+year;năm
+young;trẻ
+truck;xe tải
+yellow;màu vàng
+screen;màn hình
+bottle;chai
+three;số ba
+sea;biển
+bike;xe đạp
+banhmi;bánh mì
+high;cao
+white;màu trắng
+school;trường học
+car;xe ô tô
+street;đường phố
+fat;mập
+fire;lửa
+talk;nói chuyện
+free;tự do
+day;ngày
+tow;số hai
+key;chìa khóa
+one;số một
+black;màu đen
+cry;khóc
+water;nước
+month;tháng
+ocean;đại dương
+blue;xanh
+chat;trò chuyện
+pho;phở
+name;tên
+hello;xin chào
+river;sông
+sugar;đường
+tree;cây
